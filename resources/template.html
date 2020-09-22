@@ -1,19 +1,19 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Repo Server</title>
+        <title>儲存庫伺服器</title>
 	    
-	<link rel="stylesheet" href="https://thebusybiscuit.github.io/builds/resources/style.css">
+	<link rel="stylesheet" href="https://xmikux.github.io/builds/resources/style.css">
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="https://thebusybiscuit.github.io/builds/src/frontend.js"></script>
+        <script src="https://xmikux.github.io/builds/src/frontend.js"></script>
     </head>
     <body owner="${owner}" repository="${repository}" branch="${branch}">
         <div class="header">
-		<a class="link_main" href="https://thebusybiscuit.github.io/builds/">
+		<a class="link_main" href="https://xmikux.github.io/builds/">
 			<img alt="go back" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/arrow-left.svg" style="filter: invert(1); height: 50%; vertical-align: middle; padding-bottom: 2px;">
-			<span style="padding-left: 12px;"> Back to all Repositories</span>
+			<span style="padding-left: 12px;"> 返回儲存庫伺服器</span>
 		</a>
         </div>
 
@@ -57,7 +57,7 @@
                                     <td class="icon">
                                         <img class="icon" alt="author" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/person.svg">
                                     </td>
-                                    <td>Owner</td>
+                                    <td>所有者</td>
                                     <td>
                                         <a class="link_info" href="https://github.com/${owner}">${owner}</a>
                                     </td>
@@ -66,7 +66,7 @@
                                     <td class="icon">
                                         <img class="icon" alt="repository" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg">
                                     </td>
-                                    <td>Repository</td>
+                                    <td>儲存庫</td>
                                     <td>
                                         <a class="link_info" href="https://github.com/${owner}/${repository}/tree/${branch}">${repository} (${branch})</a>
                                     </td>
@@ -75,7 +75,7 @@
                                     <td class="icon">
                                         <img class="icon" alt="bug tracker" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/bug.svg">
                                     </td>
-                                    <td>Issue Tracker</td>
+                                    <td>問題追蹤器</td>
                                     <td>
                                         <a class="link_info" href="https://github.com/${owner}/${repository}/issues">GitHub</a>
                                     </td>
@@ -84,7 +84,7 @@
                                     <td class="icon">
                                         <img class="icon" alt="last successful build" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/checklist.svg">
                                     </td>
-                                    <td>Last successful Build</td>
+                                    <td>最後的成功構建</td>
                                     <td>
                                         <a id="link_last_successful_build" class="trigger link_info" href="${last-successful}">
                                             <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg"/>
@@ -95,7 +95,7 @@
                                     <td class="icon">
                                         <img class="icon" alt="build status" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/briefcase.svg">
                                     </td>
-                                    <td>Status Badge</td>
+                                    <td>狀態徽章</td>
                                     <td>
 					    <div class="badge_table">
 						<img id="badge_click" alt="status badge" src="badge.svg">
@@ -106,7 +106,7 @@
                             <div style="height: 8px;"></div>
                         </div>
                     </div>
-                    <span class="build_header">Builds</span>
+                    <span class="build_header">構建</span>
                     <div class="sidebar_builds">
                         <div class="container_builds">
                             <div id="buildlist" class="builds">
@@ -136,7 +136,7 @@
                                 <td class="icon">
                                     <img class="icon" alt="download" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/cloud-download.svg">
                                 </td>
-                                <td class="info_table_middle">Download (.jar)</td>
+                                <td class="info_table_middle">下載 (.jar)</td>
                                 <td>
                                     <a id="current_download_jar" class="link_info" target="_blank" href="/${repository}-${current_build}.jar">
                                         <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg"/>
@@ -147,7 +147,7 @@
                                 <td class="icon">
                                     <img class="icon" alt="log file" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/file.svg">
                                 </td>
-                                <td class="info_table_middle">Build Log</td>
+                                <td class="info_table_middle">構建Log</td>
                                 <td>
                                     <a id="current_download_log" class="link_info" target="_blank" href="/${repository}-${current_build}.log">
                                         <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg"/>
@@ -158,7 +158,7 @@
                                 <td class="icon">
                                     <img class="icon" alt="source code" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg">
                                 </td>
-                                <td class="info_table_middle">Source Code</td>
+                                <td class="info_table_middle">源碼</td>
                                 <td>
                                     <a id="current_tree" class="link_info" href="https://github.com/${owner}/${repository}/tree/${current_commit}">GitHub</a>
                                 </td>
@@ -167,7 +167,7 @@
                                 <td class="icon">
                                     <img class="icon" alt="license" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/law.svg">
                                 </td>
-                                <td class="info_table_middle">License</td>
+                                <td class="info_table_middle">許可證</td>
                                 <td>
                                     <a id="current_license" class="link_info" href="${current_license_url}">
                                         <img style="width: 20px;" class="loading" alt="loading" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/sync.svg"/>
@@ -189,7 +189,7 @@
                         <br>
 						<div id="dependency_section" style="display: none;">
                             <br>
-							<div class="current_name">Required Dependencies</div>
+							<div class="current_name">需求依賴</div>
                             <br>
                             <table id="dependencies" class="info_table current_info"></table>
                             <br>
