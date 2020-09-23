@@ -4,7 +4,7 @@
 			"enabled": false
 		},
 		"options": {
-			"prefix": "V",
+			"prefix": "TEA",
 			"custom_directory": "xMikux/Slimefun4/master"
 		},
 		"dependencies": {
@@ -21,7 +21,7 @@
 			"enabled": false
 		},
 		"options": {
-			"prefix": "V"
+			"prefix": "EFI"
 		},
 		"dependencies": {
 			"Minecraft 版本": {
