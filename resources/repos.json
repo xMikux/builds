@@ -24,13 +24,32 @@
 			"prefix": "V"
 		},
 		"dependencies": {
-			"Minecraft Version(s)": {
+			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
-			"CS-CoreLib Version": {
+			"CS-CoreLib 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/TheBusyBiscuit/CS-CoreLib/master/#44\">1.6</a>"
 			},
-			"Slimefun Version": {
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#1\">dev #1</a>"
+			}
+		}
+	},
+	"xMikux/EcoPower:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI"
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.14.x, 1.15.x, 1.16.x"
+			},
+			"CS-CoreLib 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/TheBusyBiscuit/CS-CoreLib/master/#44\">1.6</a>"
+			},
+			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#1\">dev #1</a>"
 			}
 		}
