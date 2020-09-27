@@ -186,5 +186,24 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#2\">dev #2</a>"
 			}
 		}
+	},
+	"xMikux/ExtraGear:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI"
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.14.x, 1.15.x, 1.16.x"
+			},
+			"CS-CoreLib 版本": {
+				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#79\">dev #79</a>"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#2\">dev #2</a>"
+			}
+		}
 	}
 }
