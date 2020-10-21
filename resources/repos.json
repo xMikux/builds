@@ -304,5 +304,27 @@
 				"1": "<a class=\"link_info\" href=\"https://www.spigotmc.org/resources/protocollib.1997/\">4.5.0</a>"
 			}
 		}
+	},
+	"xMikux/FluffyMachines:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI"
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.x"
+			},
+			"CS-CoreLib 版本": {
+				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#23\">TEA #23</a> 或更高"
+			},
+			"ProtocolLib 版本": {
+				"1": "<a class=\"link_info\" href=\"https://www.spigotmc.org/resources/protocollib.1997/\">4.5.0</a>"
+			}
+		}
 	}
 }
