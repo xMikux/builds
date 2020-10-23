@@ -1,0 +1,91 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< io.github.thebusybiscuit:MobCapturer >----------------
+[INFO] Building MobCapturer EFI - 3 (git 90a6e196)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml (1.5 kB at 3.0 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/maven-metadata.xml (1.5 kB at 895 B/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/spigot-api-1.15.2-R0.1-20200624.001023-124.pom
+[INFO] Downloaded 
+from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/spigot-api-1.15.2-R0.1-20200624.001023-124.pom (9.6 kB at 19 kB/s)[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigotmc-public: https://hub.spigotmc.org/nexus/content/groups/public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from spigotmc-public: https://hub.spigotmc.org/nexus/content/groups/public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml (1.2 kB at 11 kB/s)
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml (1.2 kB at 4.3 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.4 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.pom
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.pom
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.pom (986 B at 4.6 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigotmc-public: https://hub.spigotmc.org/nexus/content/groups/public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from spigotmc-public: https://hub.spigotmc.org/nexus/content/groups/public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml (602 B at 3.1 kB/s)
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml (602 B at 1.2 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/maven-metadata.xml (602 B at 670 B/s)
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/bungeecord-parent-1.15-20200526.095025-72.pom
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-parent/1.15-SNAPSHOT/bungeecord-parent-1.15-20200526.095025-72.pom (9.4 kB at 45 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/yaml/snakeyaml/1.25/snakeyaml-1.25.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/yaml/snakeyaml/1.25/snakeyaml-1.25.pom (38 kB at 29 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.pom
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.pom (13 kB at 120 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/spigot-api-1.15.2-R0.1-20200624.001023-124.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/yaml/snakeyaml/1.25/snakeyaml-1.25.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/yaml/snakeyaml/1.25/snakeyaml-1.25.jar (303 kB at 424 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/spigotmc/spigot-api/1.15.2-R0.1-SNAPSHOT/spigot-api-1.15.2-R0.1-20200624.001023-124.jar (1.3 MB at 1.7 MB/s)
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.jar
+[INFO] Downloaded from bstats-repo: https://repo.codemc.org/repository/maven-public/net/md-5/bungeecord-chat/1.15-SNAPSHOT/bungeecord-chat-1.15-20200526.095038-71.jar (132 kB at 132 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.jar
+[INFO] Downloading from bstats-repo: https://repo.codemc.org/repository/maven-public/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-17/Slimefun4-RC-17.jar (4.1 MB at 20 MB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ MobCapturer ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ MobCapturer ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ MobCapturer ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 39 source files to /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ MobCapturer ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ MobCapturer ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ MobCapturer ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ MobCapturer ---
+[INFO] Building jar: /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/target/MobCapturer-3.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ MobCapturer ---
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom (0 B at 0 B/s)
+[INFO] Including org.bstats:bstats-bukkit:jar:1.7 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/target/MobCapturer-3.jar with /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/target/MobCapturer-EFI - 3 (git 90a6e196)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/xMikux/MobCapturer/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  12.869 s
+[INFO] Finished at: 2020-10-23T18:51:23Z
+[INFO] ------------------------------------------------------------------------
