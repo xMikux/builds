@@ -1,0 +1,49 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< io.github.thebusybiscuit:ExtraHeads >-----------------
+[INFO] Building ExtraHeads EFI - 5 (git a2e83fbf)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.pom (13 kB at 56 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/slimefun/Slimefun4/RC-19/Slimefun4-RC-19.jar (4.1 MB at 14 MB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ExtraHeads ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ ExtraHeads ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ ExtraHeads ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to /home/runner/work/builds/builds/xMikux/ExtraHeads/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ ExtraHeads ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/xMikux/ExtraHeads/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ ExtraHeads ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ ExtraHeads ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ExtraHeads ---
+[INFO] Building jar: /home/runner/work/builds/builds/xMikux/ExtraHeads/master/files/target/ExtraHeads-5.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ ExtraHeads ---
+[INFO] Including org.bstats:bstats-bukkit:jar:1.8 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] ReplatraHeads-5.jar with /home/runner/work/builds/bucing /home/runner/work/builds/builds/xMikux/ExtraHeads/master/files/target/Exilds/xMikux/ExtraHeads/master/files/target/ExtraHeads-EFI - 5 (git a2e83fbf)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/xMikux/ExtraHeads/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.934 s
+[INFO] Finished at: 2021-01-13T05:30:05Z
+[INFO] ------------------------------------------------------------------------
