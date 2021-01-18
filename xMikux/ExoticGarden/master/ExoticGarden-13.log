@@ -1,0 +1,42 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------< io.github.thebusybiscuit:ExoticGarden >----------------
+[INFO] Building ExoticGarden WEI - 13 (git f9c23933)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ExoticGarden ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ ExoticGarden ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] Copying 11 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ ExoticGarden ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 32 source files to /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ ExoticGarden ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ ExoticGarden ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ ExoticGarden ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ExoticGarden ---
+[INFO] Building jar: /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/target/ExoticGarden-13.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ ExoticGarden ---
+[INFO] Including org.bstats:bstats-bukkit:jar:1.8 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/target/ExoticGarden-13.jar with /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/target/ExoticGarden-WEI - 13 (git f9c23933)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/xMikux/ExoticGarden/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.556 s
+[INFO] Finished at: 2021-01-18T18:35:01Z
+[INFO] ------------------------------------------------------------------------
