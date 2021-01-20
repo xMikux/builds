@@ -1,5 +1,6 @@
 {
 	"xMikux/Slimefun4:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -19,6 +20,7 @@
 		}
 	},
 	"xMikux/ChestTerminal:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -38,6 +40,7 @@
 		}
 	},
 	"xMikux/EcoPower:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -57,6 +60,7 @@
 		}
 	},
 	"xMikux/HotbarPets:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -76,6 +80,7 @@
 		}
 	},
 	"xMikux/ExoticGarden:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -96,6 +101,7 @@
 		}
 	},
 	"xMikux/DyedBackpacks:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -115,6 +121,7 @@
 		}
 	},
 	"xMikux/MobCapturer:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -134,6 +141,7 @@
 		}
 	},
 	"xMikux/ExtraHeads:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -153,6 +161,7 @@
 		}
 	},
 	"xMikux/ElectricSpawners:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -172,6 +181,7 @@
 		}
 	},
 	"xMikux/PrivateStorage:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -191,6 +201,7 @@
 		}
 	},
 	"xMikux/ExtraGear:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -210,6 +221,7 @@
 		}
 	},
 	"xMikux/SlimefunOreChunks:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -229,6 +241,7 @@
 		}
 	},
 	"xMikux/SoulJars:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -248,6 +261,7 @@
 		}
 	},
 	"xMikux/FoxyMachines:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -267,6 +281,7 @@
 		}
 	},
 	"xMikux/GlobalWarming:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -286,6 +301,7 @@
 		}
 	},
 	"xMikux/SoundMuffler:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -308,6 +324,7 @@
 		}
 	},
 	"xMikux/FluffyMachines:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -327,6 +344,7 @@
 		}
 	},
 	"xMikux/SlimefunWarfare:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -346,6 +364,7 @@
 		}
 	},
 	"xMikux/Liquid:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -365,6 +384,7 @@
 		}
 	},
 	"xMikux/LiteXpansion:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -384,6 +404,7 @@
 		}
 	},
 	"xMikux/DynaTech:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -403,6 +424,7 @@
 		}
 	},
 	"xMikux/ColoredEnderChests:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
@@ -422,6 +444,7 @@
 		}
 	},
 	"xMikux/ExtraTools:master": {
+		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
