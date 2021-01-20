@@ -152,10 +152,10 @@ $(() => {
 
             // "Last Successful Build" Link
             let link_last_successful = $("#link_last_successful_build");
-            link_last_successful.text(`Last successful build (#${last_successful})`);
+            link_last_successful.text(`最後的成功構建 (#${last_successful})`);
             link_last_successful.attr("href", "#" + last_successful);
 
-            $(".build_header").text("Builds (" + builds.latest + ")");
+            $(".build_header").text("構建 (" + builds.latest + ")");
 
             // Build List
             let list_builds = $("#buildlist");
@@ -217,7 +217,7 @@ function createBadge(directory, language) {
     if (language === "markdown") {
         url = `[![Build Status](https://xMikux.github.io/builds/${directory}/badge.svg)](https://xMikux.github.io/builds/${directory})`;
     } else if (language === "html") {
-        url = `<a href="https://xMikux.github.io/builds/${directory}"><img src="https://xMikux.github.io/builds/${directory}/badge.svg" alt="Build Status"/></a>`;
+        url = `<a href="https://xMikux.github.io/builds/${directory}"><img src="https://xMikux.github.io/builds/${directory}/badge.svg" alt="構建狀態"/></a>`;
     }
 
     $("#badge_" + language).attr("value", url);
