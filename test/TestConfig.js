@@ -1,6 +1,6 @@
 const chai = require('chai');
 chai.use(require('chai-as-promised'));
-const {assert} = chai;
+const { assert } = chai;
 
 const config = require('../src/config.js');
 
@@ -27,13 +27,5 @@ describe("Config Test", function() {
 
     it("can return sonar's console arguments", () => {
         return assert.isNotNull(config("null").sonar.getArguments());
-    });
-
-    it("can return sonar's console arguments", () => {
-        return assert.isNumber(config("null").server.getPort());
-    });
-
-    it("can return sonar's console arguments", () => {
-        return assert.isNumber(config("null").server.getInterval());
     });
 });

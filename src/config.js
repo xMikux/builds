@@ -1,26 +1,15 @@
 const fs = require('fs');
+const path = require('path');
 const lodash = require("lodash/object");
 
 const defaultConfig = {
-    server: {
-        port: 8085,
-        interval: 15
-    },
     github: {
         token: "YOUR_GITHUB_ACCESS_TOKEN"
     },
     discord: {
         enabled: false,
         id: "YOUR_DISCORD_BOT_ID",
-        token: "YOUR_DISCORD_BOT_TOKEN",
-        messages: {
-            success: [
-                "This build was successful"
-            ],
-            failure: [
-                "This build has failed"
-            ]
-        }
+        token: "YOUR_DISCORD_BOT_TOKEN"
     },
     sonar: {
         enabled: false,
@@ -29,7 +18,7 @@ const defaultConfig = {
     }
 }
 
-module.exports = (file) => {
+module.exports = file => {
     let cfg = {};
 
     if (file != 'null' && process.env.JSON_CONFIG) {
@@ -39,8 +28,7 @@ module.exports = (file) => {
     try {
         // Sadly this has to be a sync-process, otherwise a Promise would be more appropriate here
         cfg = JSON.parse(fs.readFileSync(file, 'UTF-8'));
-    }
-    catch(err) {}
+    } catch (err) { }
 
     cfg = lodash.defaultsDeep(cfg, defaultConfig);
 
@@ -52,11 +40,9 @@ module.exports = (file) => {
 };
 
 function structure(json) {
+    let messages = JSON.stringify(fs.readFileSync(path.resolve(__dirname, "../resources/discord-messages.json"), 'UTF-8'));
+
     return {
-        server: {
-            getPort: () => json.server.port,
-            getInterval: () => json.server.interval
-        },
         github: {
             getToken: () => process.env.ACCESS_TOKEN
         },
@@ -64,8 +50,8 @@ function structure(json) {
             isEnabled: () => json.discord.enabled,
             getID: () => json.discord.id,
             getToken: () => json.discord.token,
-            getMessages: (success) => {
-                return success ? json.discord.messages.success: json.discord.messages.failure;
+            getMessages: success => {
+                return success ? messages.success : messages.failure;
             }
         },
         sonar: {
