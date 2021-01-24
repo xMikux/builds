@@ -1,12 +1,12 @@
 {
 	"xMikux/Slimefun4:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
 			"prefix": "TEA",
-			"custom_directory": "xMikux/Slimefun4/master"
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -21,12 +21,13 @@
 		}
 	},
 	"xMikux/ChestTerminal:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -41,12 +42,13 @@
 		}
 	},
 	"xMikux/EcoPower:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -61,15 +63,17 @@
 		}
 	},
 	"xMikux/HotbarPets:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
+				"6": "<em>不再需要!</em>",
 				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
 			"CS-CoreLib 版本": {
@@ -81,18 +85,20 @@
 		}
 	},
 	"xMikux/ExoticGarden:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "WEI"
+			"prefix": "WEI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
 			"CS-CoreLib 版本": {
+				"13": "<em>不再需要!</em>",
 				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
 			},
 			"Slimefun 版本": {
@@ -102,12 +108,13 @@
 		}
 	},
 	"xMikux/DyedBackpacks:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -122,12 +129,13 @@
 		}
 	},
 	"xMikux/MobCapturer:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -142,12 +150,13 @@
 		}
 	},
 	"xMikux/ExtraHeads:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -162,12 +171,13 @@
 		}
 	},
 	"xMikux/ElectricSpawners:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -182,12 +192,13 @@
 		}
 	},
 	"xMikux/PrivateStorage:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -202,12 +213,13 @@
 		}
 	},
 	"xMikux/ExtraGear:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -222,12 +234,13 @@
 		}
 	},
 	"xMikux/SlimefunOreChunks:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -242,18 +255,20 @@
 		}
 	},
 	"xMikux/SoulJars:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
 			"CS-CoreLib 版本": {
+				"6": "<em>不再需要!</em>",
 				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
 			},
 			"Slimefun 版本": {
@@ -262,12 +277,13 @@
 		}
 	},
 	"xMikux/FoxyMachines:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -282,12 +298,13 @@
 		}
 	},
 	"xMikux/GlobalWarming:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -302,12 +319,13 @@
 		}
 	},
 	"xMikux/SoundMuffler:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -325,12 +343,13 @@
 		}
 	},
 	"xMikux/FluffyMachines:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -345,12 +364,13 @@
 		}
 	},
 	"xMikux/SlimefunWarfare:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -365,12 +385,13 @@
 		}
 	},
 	"xMikux/Liquid:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -385,12 +406,13 @@
 		}
 	},
 	"xMikux/LiteXpansion:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -405,12 +427,13 @@
 		}
 	},
 	"xMikux/DynaTech:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -425,12 +448,13 @@
 		}
 	},
 	"xMikux/ColoredEnderChests:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
@@ -445,12 +469,13 @@
 		}
 	},
 	"xMikux/ExtraTools:master": {
-		"abandoned": false,
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
-			"prefix": "EFI"
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
