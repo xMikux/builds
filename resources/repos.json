@@ -490,5 +490,26 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#53\">TEA #53</a> 或更高"
 			}
 		}
+	},
+	"xMikux/GeneticChickengineering:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
+		},
+        "dependencies": {
+            "Minecraft 版本": {
+                "1": "1.16.x"
+            },
+            "Slimefun 版本": {
+                "1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#81\">TEA #81</a> 或更高"
+            },
+            "伺服器核心": {
+                "1": "<a class=\"link_info\" href=\"https://papermc.io/downloads\">Paper 1.16</a>"
+            }
+        }
 	}
 }
