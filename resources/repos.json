@@ -511,5 +511,23 @@
                 "1": "<a class=\"link_info\" href=\"https://papermc.io/downloads\">Paper 1.16</a>"
             }
         }
-	}
+	},
+    "xMikux/InfinityExpansion:master": {
+        "sonar": {
+            "enabled": false
+        },
+        "options": {
+            "prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
+        },
+        "dependencies": {
+            "Minecraft 版本": {
+                "1": "1.16.x"
+            },
+            "Slimefun 版本": {
+                "1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#81\">TEA #81</a> 或更高"
+            }
+        }
+    }
 }
