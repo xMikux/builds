@@ -1,0 +1,42 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< io.github.thebusybiscuit:SoulJars >------------------
+[INFO] Building SoulJars EFI - 7 (git 03bfcfd6)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ SoulJars ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ SoulJars ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ SoulJars ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to /home/runner/work/builds/builds/xMikux/SoulJars/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ SoulJars ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/xMikux/SoulJars/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ SoulJars ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ SoulJars ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ SoulJars ---
+[INFO] Building jar: /home/runner/work/builds/builds/xMikux/SoulJars/master/files/target/SoulJars-7.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ SoulJars ---
+[INFO] Including org.bstats:bstats-bukkit:jar:2.2.1 in the shaded jar.
+[INFO] Including org.bstats:bstats-base:jar:2.2.1 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/xMikux/SoulJars/master/files/target/SoulJars-7.jar with /home/runner/work/builds/builds/xMikux/SoulJars/master/files/target/SoulJars-EFI - 7 (git 03bfcfd6)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/xMikux/SoulJars/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.504 s
+[INFO] Finished at: 2021-02-28T14:22:18Z
+[INFO] ------------------------------------------------------------------------
