@@ -76,9 +76,6 @@
 				"6": "<em>不再需要!</em>",
 				"1": "1.14.x, 1.15.x, 1.16.x"
 			},
-			"CS-CoreLib 版本": {
-				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
-			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
 			}
@@ -119,9 +116,6 @@
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
-			},
-			"CS-CoreLib 版本": {
-				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -182,9 +176,6 @@
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
-			},
-			"CS-CoreLib 版本": {
-				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -266,10 +257,6 @@
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
-			},
-			"CS-CoreLib 版本": {
-				"6": "<em>不再需要!</em>",
-				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#91\">dev #91</a>"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
@@ -464,9 +451,6 @@
 		"dependencies": {
 			"Minecraft 版本": {
 				"1": "1.14.x, 1.15.x, 1.16.x"
-			},
-			"CS-CoreLib 版本": {
-				"1": "<a class=\"link_info\" href=\"https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/#92\">dev #92 或更高</a>"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#53\">TEA #53</a> 或更高"
