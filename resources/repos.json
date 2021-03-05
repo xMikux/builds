@@ -512,6 +512,24 @@
             	"5": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#90\">TEA #90</a> 或更高",
                 "1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#81\">TEA #81</a> 或更高"
             }
-        }
+        },
+	"xMikux/SimpleUtils:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#94\">TEA #94</a> 或更高"
+			}
+		}
+	}
     }
 }
