@@ -522,5 +522,26 @@
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#157\">TEA #157</a> 或更高"
 			}
 		}
+	},
+	"xMikux/AlchimiaVitae:master": {
+		"sonar": {
+			"enabled": false
+		},
+		"options": {
+			"prefix": "EFI",
+            "abandoned": false,
+            "createJar": true
+		},
+		"dependencies": {
+			"Minecraft 版本": {
+				"1": "1.16.x"
+			},
+			"Slimefun 版本": {
+				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#161\">TEA #161</a> 或更高"
+			},
+			"Java 版本": {
+				"1": "11"
+			}
+		}
 	}
 }
