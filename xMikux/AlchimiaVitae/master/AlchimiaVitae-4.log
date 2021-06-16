@@ -1,0 +1,291 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< me.apeiros:AlchimiaVitae >----------------------
+[INFO] Building AlchimiaVitae EFI - 4 (git 702bdded)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom (12 kB at 44 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/33/maven-plugins-33.pom (11 kB at 324 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar (62 kB at 1.6 MB/s)
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/spigotmc/spigot-api/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/Slimefun/Slimefun4/RC-23/Slimefun4-RC-23.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/Slimefun/Slimefun4/RC-23/Slimefun4-RC-23.pom (13 kB at 51 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/projectlombok/lombok/1.18.20/lombok-1.18.20.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/projectlombok/lombok/1.18.20/lombok-1.18.20.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/projectlombok/lombok/1.18.20/lombok-1.18.20.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/projectlombok/lombok/1.18.20/lombok-1.18.20.pom (1.5 kB at 2.6 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/0979d01/InfinityLib-0979d01.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/0979d01/InfinityLib-0979d01.pom (3.0 kB at 24 kB/s)
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 48 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 2.8 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/adventure-text-minimessage-4.1.0-20210612.213444-40.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/adventure-text-minimessage-4.1.0-20210612.213444-40.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/adventure-text-minimessage-4.1.0-20210612.213444-40.pom (2.1 kB at 88 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.pom (3.2 kB at 3.9 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-bom/4.8.1/adventure-bom-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-bom/4.8.1/adventure-bom-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-bom/4.8.1/adventure-bom-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-bom/4.8.1/adventure-bom-4.8.1.pom (4.0 kB at 8.0 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.pom (3.0 kB at 6.2 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom (2.0 kB at 4.1 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom (2.1 kB at 4.1 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom (2.0 kB at 4.1 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/jetbrains/annotations/21.0.1/annotations-21.0.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/jetbrains/annotations/21.0.1/annotations-21.0.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/jetbrains/annotations/21.0.1/annotations-21.0.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/jetbrains/annotations/21.0.1/annotations-21.0.1.pom (1.3 kB at 2.6 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 56 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 2.7 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/adventure-platform-bukkit-4.0.0-20210612.214139-81.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/adventure-platform-bukkit-4.0.0-20210612.214139-81.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/adventure-platform-bukkit-4.0.0-20210612.214139-81.pom (3.9 kB at 195 kB/s)
+[INFO] Downl-SNAPSHOT/maven-metadata.xml
+oading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-api/4.0.0[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 63 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 2.8 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/adventure-platform-api-4.0.0-20210612.214139-62.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/adventure-platform-api-4.0.0-20210612.214139-62.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/adventure-platform-api-4.0.0-20210612.214139-62.pom (2.3 kB at 137 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 74 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 1.7 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/adventure-text-serializer-craftbukkit-4.0.0-20210612.214139-42.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/adventure-text-serializer-craftbukkit-4.0.0-20210612.214139-42.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/adventure-text-serializer-craftbukkit-4.0.0-20210612.214139-42.pom (3.5 kB at 193 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.pom (3.0 kB at 6.2 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.pom (2.9 kB at 5.7 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.pom (2.7 kB at 5.1 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.pom
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.pom
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.pom (3.1 kB at 6.2 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 70 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 2.8 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/adventure-text-serializer-bungeecord-4.0.0-20210612.214139-73.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/adventure-text-serializer-bungeecord-4.0.0-20210612.214139-73.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/adventure-text-serializer-bungeecord-4.0.0-20210612.214139-73.pom (2.9 kB at 61 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloadilatform-facet/4.0.0-SNAPSHOT/maven-metadata.xml
+ng from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-p[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 73 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 1.6 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/adventure-platform-facet-4.0.0-20210612.214139-42.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/adventure-platform-facet-4.0.0-20210612.214139-42.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/adventure-platform-facet-4.0.0-20210612.214139-42.pom (2.5 kB at 133 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 56 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/maven-metadata.xml (1.4 kB at 2.9 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/adventure-platform-viaversion-4.0.0-20210612.214139-65.pom
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/adventure-platform-viaversion-4.0.0-20210612.214139-65.pom
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/adventure-platform-viaversion-4.0.0-20210612.214139-65.pom (2.9 kB at 171 kB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/Slimefun/Slimefun4/RC-23/Slimefun4-RC-23.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/0979d01/InfinityLib-0979d01.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/jetbrains/annotations/21.0.1/annotations-21.0.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/io/github/mooy1/InfinityLib/0979d01/InfinityLib-0979d01.jar (73 kB at 397 kB/s)
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/Slimefun/Slimefun4/RC-23/Slimefun4-RC-23.jar (4.3 MB at 15 MB/s)
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/adventure-text-minimessage-4.1.0-20210612.213444-40.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/jetbrains/annotations/21.0.1/annotations-21.0.1.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/adventure-platform-bukkit-4.0.0-20210612.214139-81.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/adventure-platform-api-4.0.0-20210612.214139-62.jar
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-bukkit/4.0.0-SNAPSHOT/adventure-platform-bukkit-4.0.0-20210612.214139-81.jar (85 kB at 1.6 MB/s)
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/adventure-text-serializer-craftbukkit-4.0.0-20210612.214139-42.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.jar
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-craftbukkit/4.0.0-SNAPSHOT/adventure-text-serializer-craftbukkit-4.0.0-20210612.214139-42.jar (11 kB at 151 kB/s)
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/adventure-text-serializer-bungeecord-4.0.0-20210612.214139-73.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.jar
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-minimessage/4.1.0-SNAPSHOT/adventure-text-minimessage-4.1.0-20210612.213444-40.jar (99 kB at 918 kB/s)
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/adventure-platform-viaversion-4.0.0-20210612.214139-65.jar
+[INFO] Downloading from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/adventure-platform-facet-4.0.0-20210612.214139-42.jar
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-viaversion/4.0.0-SNAPSHOT/adventure-platform-viaversion-4.0.0-20210612.214139-65.jar (19 kB at 151 kB/s)
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-text-serializer-bungeecord/4.0.0-SNAPSHOT/adventure-text-serializer-bungeecord-4.0.0-20210612.214139-73.jar (9.6 kB at 76 kB/s)
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-facet/4.0.0-SNAPSHOT/adventure-platform-facet-4.0.0-20210612.214139-42.jar (33 kB at 248 kB/s)
+[INFO] Downloaded from sonatype-oss-snapshots: https://oss.sonatype.org/content/repositories/snapshots/net/kyori/adventure-platform-api/4.0.0-SNAPSHOT/adventure-platform-api-4.0.0-20210612.214139-62.jar (1.5 kB at 11 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-key/4.8.1/adventure-key-4.8.1.jar (8.2 kB at 24 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar (5.9 kB at 9.8 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/jetbrains/annotations/21.0.1/annotations-21.0.1.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-api/4.8.1/adventure-api-4.8.1.jar (264 kB at 388 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar (1.9 MB at 1.8 MB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar (22 kB at 20 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.jar (207 kB at 128 kB/s)
+[INFO] Downloading from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.jar
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/org/jetbrains/annotations/21.0.1/annotations-21.0.1.jar (28 kB at 16 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-nbt/4.8.1/adventure-nbt-4.8.1.jar (93 kB at 51 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson-legacy-impl/4.8.1/adventure-text-serializer-gson-legacy-impl-4.8.1.jar (4.9 kB at 2.7 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.8.1/adventure-text-serializer-legacy-4.8.1.jar (24 kB at 11 kB/s)
+[INFO] Downloaded from paper-repo: https://repo.destroystokyo.com/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.8.1/adventure-text-serializer-gson-4.8.1.jar (33 kB at 11 kB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ AlchimiaVitae ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ AlchimiaVitae ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ AlchimiaVitae ---
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom (770 B at 45 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom (5.0 kB at 296 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/orven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+g/apache/ma[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom (5.6 kB at 134 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom (0 B at 0 B/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom (5.1 kB at 319 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom (4.1 kB at 244 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom (2.9 kB at 55 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom (16 kB at 834 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom (867 B at 38 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom (6.0 kB at 377 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom (2.7 kB at 166 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom (3.8 kB at 255 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom (692 B at 38 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom (771 B at 43 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom (1.3 kB at 52 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar (222 kB at 4.4 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar (4.3 kB at 69 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar (39 kB at 789 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar (111 kB at 2.0 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar (167 kB at 2.0 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar (4.7 kB at 63 kB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar (27 kB at 343 kB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar (21 kB at 253 kB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar (209 kB at 2.0 MB/s)
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar (317 kB at 3.2 MB/s)
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 32 source files to /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ AlchimiaVitae ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ AlchimiaVitae ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ AlchimiaVitae ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ AlchimiaVitae ---
+[INFO] Building jar: /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/target/AlchimiaVitae-4.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ AlchimiaVitae ---
+[INFO] Including io.github.mooy1:InfinityLib:jar:0979d01 in the shaded jar.
+[INFO] Including net.kyori:adventure-text-minimessage:jar:4.1.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-api:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-key:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:examination-api:jar:1.1.0 in the shaded jar.
+[INFO] Including org.checkerframework:checker-qual:jar:3.10.0 in the shaded jar.
+[INFO] Including net.kyori:examination-string:jar:1.1.0 in the shaded jar.
+[INFO] Including org.jetbrains:annotations:jar:21.0.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-platform-bukkit:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-platform-api:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-text-serializer-craftbukkit:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-text-serializer-gson-legacy-impl:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-text-serializer-bungeecord:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-text-serializer-legacy:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-nbt:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-text-serializer-gson:jar:4.8.1 in the shaded jar.
+[INFO] Including net.kyori:adventure-platform-facet:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Including net.kyori:adventure-platform-viaversion:jar:4.0.0-SNAPSHOT in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/target/AlchimiaVitae-4.jar with /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/target/AlchimiaVitae-EFI - 4 (git 702bdded)-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/runner/work/builds/builds/xMikux/AlchimiaVitae/master/files/dependency-reduced-pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  21.013 s
+[INFO] Finished at: 2021-06-16T07:26:35Z
+[INFO] ------------------------------------------------------------------------
