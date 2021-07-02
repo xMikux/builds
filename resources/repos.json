@@ -239,12 +239,13 @@
 			}
 		}
 	},
-	"xMikux/FoxyMachines:master": {
+	"SlimeTraditionalTranslation/FoxyMachines:master": {
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
 			"prefix": "EFI",
+			"custom_directory": "xMikux/FoxyMachines/master",
             "abandoned": false,
             "createJar": true
 		},
@@ -545,12 +546,13 @@
 			}
 		}
 	},
-	"xMikux/HeadLimiter:master": {
+	"SlimeTraditionalTranslation/HeadLimiter:master": {
 		"sonar": {
 			"enabled": false
 		},
 		"options": {
 			"prefix": "EFI",
+			"custom_directory": "xMikux/HeadLimiter/master",
             "abandoned": false,
             "createJar": true
 		},
