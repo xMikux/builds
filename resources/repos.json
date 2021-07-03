@@ -245,18 +245,19 @@
 		},
 		"options": {
 			"prefix": "EFI",
-			"custom_directory": "xMikux/FoxyMachines/master",
             "abandoned": false,
             "createJar": true
 		},
 		"dependencies": {
 			"Minecraft 版本": {
+				"28": "1.16.x 1.17.x",
 				"1": "1.16.x"
 			},
 			"Slimefun 版本": {
 				"1": "<a class=\"link_info\" href=\"/builds/xMikux/Slimefun4/master/#12\">TEA #12</a> 或更高"
 			},
 			"Java 版本": {
+				"28": "16",
 				"1": "11"
 			}
 		}
@@ -552,7 +553,6 @@
 		},
 		"options": {
 			"prefix": "EFI",
-			"custom_directory": "xMikux/HeadLimiter/master",
             "abandoned": false,
             "createJar": true
 		},
