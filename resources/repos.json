@@ -262,7 +262,7 @@
 			}
 		}
 	},
-	"xMikux/GlobalWarming:master": {
+	"SlimeTraditionalTranslation/GlobalWarming:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -432,7 +432,7 @@
 			}
 		}
 	},
-	"xMikux/GeneticChickengineering:master": {
+	"SlimeTraditionalTranslation/GeneticChickengineering:master": {
 		"sonar": {
 			"enabled": false
 		},
