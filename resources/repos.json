@@ -319,7 +319,7 @@
 			}
 		}
 	},
-	"xMikux/SlimefunWarfare:master": {
+	"SlimeTraditionalTranslation/SlimefunWarfare:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -568,7 +568,7 @@
 			}
 		}
 	},
-	"xMikux/Simple-Storage:master": {
+	"SlimeTraditionalTranslation/Simple-Storage:master": {
 		"sonar": {
 			"enabled": false
 		},
