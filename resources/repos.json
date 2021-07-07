@@ -21,7 +21,7 @@
 			}
 		}
 	},
-	"xMikux/ChestTerminal:master": {
+	"SlimeTraditionalTranslation/ChestTerminal:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -57,7 +57,7 @@
 			}
 		}
 	},
-	"xMikux/HotbarPets:master": {
+	"SlimeTraditionalTranslation/HotbarPets:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -131,7 +131,7 @@
 			}
 		}
 	},
-	"xMikux/ExtraHeads:master": {
+	"SlimeTraditionalTranslation/ExtraHeads:master": {
 		"sonar": {
 			"enabled": false
 		},
