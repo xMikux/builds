@@ -76,7 +76,7 @@
 			}
 		}
 	},
-	"xMikux/ExoticGarden:master": {
+	"SlimeTraditionalTranslation/ExoticGarden:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -221,7 +221,7 @@
 			}
 		}
 	},
-	"xMikux/SoulJars:master": {
+	"SlimeTraditionalTranslation/SoulJars:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -453,7 +453,7 @@
 			}
 		}
 	},
-	"xMikux/InfinityExpansion:master": {
+	"SlimeTraditionalTranslation/InfinityExpansion:master": {
 		"sonar": {
 			"enabled": false
 		},
