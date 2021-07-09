@@ -149,7 +149,7 @@
 			}
 		}
 	},
-	"xMikux/ElectricSpawners:master": {
+	"SlimeTraditionalTranslation/ElectricSpawners:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -396,7 +396,7 @@
 			}
 		}
 	},
-	"xMikux/ColoredEnderChests:master": {
+	"SlimeTraditionalTranslation/ColoredEnderChests:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -414,7 +414,7 @@
 			}
 		}
 	},
-	"xMikux/ExtraTools:master": {
+	"SlimeTraditionalTranslation/ExtraTools:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -472,7 +472,7 @@
 			}
 		}
 	},
-	"xMikux/SimpleUtils:master": {
+	"SlimeTraditionalTranslation/SimpleUtils:master": {
 		"sonar": {
 			"enabled": false
 		},
