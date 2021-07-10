@@ -167,7 +167,7 @@
 			}
 		}
 	},
-	"xMikux/PrivateStorage:master": {
+	"SlimeTraditionalTranslation/PrivateStorage:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -490,7 +490,7 @@
 			}
 		}
 	},
-	"xMikux/SlimyTreeTaps:master": {
+	"SlimeTraditionalTranslation/SlimyTreeTaps:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -508,7 +508,7 @@
 			}
 		}
 	},
-	"xMikux/SMG:master": {
+	"SlimeTraditionalTranslation/SMG:master": {
 		"sonar": {
 			"enabled": false
 		},
