@@ -39,7 +39,7 @@
 			}
 		}
 	},
-	"xMikux/EcoPower:master": {
+	"SlimeTraditionalTranslation/EcoPower:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -301,7 +301,7 @@
 			}
 		}
 	},
-	"xMikux/FluffyMachines:master": {
+	"SlimeTraditionalTranslation/FluffyMachines:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -338,7 +338,7 @@
 			}
 		}
 	},
-	"xMikux/Liquid:master": {
+	"SlimeTraditionalTranslation/Liquid:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -374,7 +374,7 @@
 			}
 		}
 	},
-	"xMikux/DynaTech:master": {
+	"SlimeTraditionalTranslation/DynaTech:master": {
 		"sonar": {
 			"enabled": false
 		},
@@ -526,7 +526,7 @@
 			}
 		}
 	},
-	"xMikux/AlchimiaVitae:master": {
+	"SlimeTraditionalTranslation/AlchimiaVitae:master": {
 		"sonar": {
 			"enabled": false
 		},
